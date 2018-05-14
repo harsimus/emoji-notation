@@ -1,5 +1,5 @@
 {
-  "name": "emoji-movelist",
+  "name": "emoji-notation",
   "version": "0.1.0",
   "description": "A NodeJS package to convert strings of fighting game moves to strings of fighting game moves (with emojis! 😅)",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/freetostones/emoji-movelist.git"
+    "url": "git+https://github.com/freetostones/emoji-notation.git"
   },
   "keywords": [
     "emoji",
@@ -16,12 +16,13 @@
     "games",
     "gaming",
     "street fighter",
-    "tekken"
+    "tekken",
+    "dragonball z"
   ],
   "author": "Michael C. Martinez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/freetostones/emoji-movelist/issues"
+    "url": "https://github.com/freetostones/emoji-notation/issues"
   },
-  "homepage": "https://github.com/freetostones/emoji-movelist#readme"
+  "homepage": "https://github.com/freetostones/emoji-notation#readme"
 }
