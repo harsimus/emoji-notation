@@ -1,6 +1,6 @@
 {
   "name": "emoji-movelist",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A NodeJS package to convert strings of fighting game moves to strings of fighting game moves (with emojis! 😅)",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,12 @@
     "url": "git+https://github.com/freetostones/emoji-movelist.git"
   },
   "keywords": [
-    "emoji"
+    "emoji",
+    "game",
+    "games",
+    "gaming",
+    "street fighter",
+    "tekken"
   ],
   "author": "Michael C. Martinez",
   "license": "MIT",
